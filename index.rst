@@ -1,4 +1,4 @@
-Welcome to vision.network!
+欢迎来到虚拟现实世界VR世界链！
 ==========================
 
 .. image:: /_static/welcome.svg
@@ -13,28 +13,28 @@ Welcome to vision.network!
    |logo_earth|
 
    Official Website
-      - https://vision.network/
-      - https://vision.network/zh-cn (Simplified Chinese)
+      - http://vrd.ink/
+
 
    |logo_email|
 
    E-mail
-      support@vision.network
+      vrdchain.ink@gmail.com
 
    |logo_github|
 
    GitHub
-      https://github.com/voken100g
+      https://github.com/vrdchain/
 
 
    |logo_telegram|
 
    Telegram Group
-      - https://t.me/voken100g
-      - https://t.me/vokenCN (Chinese Group)
+      - https://t.me/vrdchain
+      - https://t.me/vrdchainCN (Chinese Group)
 
    Telegram News Channel
-      - https://t.me/vokenNews
+      - https://t.me/vrdchainNews
 
 
    |logo_doc|
