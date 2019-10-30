@@ -2,9 +2,7 @@
 ==========================
 
 
-   :width: 100 %
-   :alt: welcome.svg
-   :align: center
+
 
 |
 
