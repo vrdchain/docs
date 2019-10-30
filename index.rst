@@ -1,7 +1,7 @@
 欢迎来到虚拟现实世界VR世界链！
 ==========================
 
-.. image:: /_static/welcome.svg
+
    :width: 100 %
    :alt: welcome.svg
    :align: center
