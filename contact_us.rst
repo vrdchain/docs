@@ -34,7 +34,7 @@ https://github.com/vrdchain
 
 |logo_telegram|
 
-.. _voken_telegram:
+.. _vrd_telegram:
 
 Telegram Group
 --------------
